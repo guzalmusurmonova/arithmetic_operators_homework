@@ -8,6 +8,6 @@ x2=a//10
 #Find the 'number' third digit and assign to x3.
 x3=number%10
 #Create a variable called 'answer' and assign it the sum of the three digits x1, x2, x3.
-javob=x1+x2+x3
+answer=x1+x2+x3
 #Print the value of the 'answer.
-print(javob)
+print(answer)
